@@ -415,14 +415,15 @@ i.fa-envelope::after {
     left: calc(100px + 6%);
 }
 
-.col2 span {
+
+/* .col2 span {
     text-align: right;
     position: absolute;
     right: calc(20px);
     top: calc(20px);
     color: gray;
     font-weight: 200;
-}
+} */
 
 .post-text {
     font-size: 1.4em;
